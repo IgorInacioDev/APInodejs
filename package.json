@@ -1,0 +1,19 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csv-generate": "^4.2.2",
+    "csv-parse": "^5.3.6",
+    "httpie": "^1.1.2",
+    "json2csv": "^6.0.0-alpha.2"
+  }
+}
